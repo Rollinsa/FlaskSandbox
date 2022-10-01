@@ -5,8 +5,11 @@ A simple Flask app based on the standard Flask tutorial at https://flask.pallets
 # Setup
 
 Install python
+
 Setup a venv
+
 `pip install -r requirements.txt`
+
 `flask --app flaskr init-db`
 
 # Run (local debug)
